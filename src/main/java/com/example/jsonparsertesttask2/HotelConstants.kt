@@ -1,0 +1,25 @@
+package com.example.jsonparsertesttask2
+
+object HotelConstants {
+    const val HOTEL_CONSTANTS_ID = "id"
+    const val HOTEL_CONSTANTS_NAME = "name"
+    const val HOTEL_CONSTANTS_ADDRESS = "address"
+    const val HOTEL_CONSTANTS_STARS = "stars"
+    const val HOTEL_CONSTANTS_DISTANCE = "distance"
+    const val HOTEL_CONSTANTS_SUITES_AVAILABILITY = "suites_availability"
+    const val HOTEL_CONSTANTS_IMAGE = "image"
+    const val HOTEL_CONSTANTS_LAT = "lat"
+    const val HOTEL_CONSTANTS_LON = "lon"
+    const val HOTEL_CONSTANTS_STAR = "★"
+    const val HOTEL_CONSTANTS_EMPTY = ""
+    const val HOTEL_CONSTANTS_SPACE = " "
+    const val HOTEL_CONSTANTS_COLON = ":"
+    const val HOTEL_CONSTANTS_COMMA = ","
+    const val HOTEL_CONSTANTS_SQUARE_BRACKET_LEFT = "["
+    const val HOTEL_CONSTANTS_SQUARE_BRACKET_RIGHT = "]"
+    const val HOTEL_CONSTANTS_HOTEL_ID = "Hotel id:"
+    const val HOTEL_CONSTANTS_HOTEL_NAME = "Hotel name"
+    const val HOTEL_CONSTANTS_VACANT_ROOMS = "Vacant rooms:"
+    const val HOTEL_CONSTANTS_KM_FROM_CITY_CENTER = "km from city center"
+    const val HOTEL_CONSTANTS_CROPPED_BITMAP_KEY = "croppedBitmap"
+}

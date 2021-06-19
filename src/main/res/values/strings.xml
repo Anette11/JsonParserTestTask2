@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hotels</string>
+    <string name="default_filter">default</string>
+    <string name="distance">distance</string>
+    <string name="rooms">rooms</string>
+    <string name="hotel_image">Hotel image</string>
+    <string name="hotel_name">Hotel name</string>
+    <string name="learn_more">Learn more</string>
+    <string name="address">Address:</string>
+    <string name="arrow_back">←</string>
+    <string name="km">km</string>
+    <string name="distance_from_city_center">Distance from city center:</string>
+
+    <string-array name="spinner_filter">
+        <item>@string/default_filter</item>
+        <item>@string/distance</item>
+        <item>@string/rooms</item>
+    </string-array>
+</resources>
