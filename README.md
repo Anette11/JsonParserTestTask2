@@ -1,6 +1,6 @@
 # JsonParserTestTask2
 
-Conditions of the Test task are the same: [JsonParserTestTaskTest](https://github.com/Anette11/JsonParserTestTask#jsonparsertesttask), 
+Conditions of the Test task are the same: [JsonParserTestTask](https://github.com/Anette11/JsonParserTestTask#jsonparsertesttask), 
 but project architecture is completely redone.
 
 In project are used:
